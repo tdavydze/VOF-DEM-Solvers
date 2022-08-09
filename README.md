@@ -1,4 +1,4 @@
-# VOF-DEM-Solvers
+# VOF-DEM Solvers
 Implementation of Volume of Fluid (VOF) and coupling it with Discrete Element Method (DEM), following unresolved methodology (fluid cells larger than particles).
 
 Publication: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.013301
