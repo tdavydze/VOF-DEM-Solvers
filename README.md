@@ -1,5 +1,5 @@
 # VOF-DEM-Solvers
-Implementation of Volume of Fluid (VOF) and coupling it with Discrete Element Method (DEM), following unresolved methodology (fluid cells larger thann particles).
+Implementation of Volume of Fluid (VOF) and coupling it with Discrete Element Method (DEM), following unresolved methodology (fluid cells larger than particles).
 
 cfdem_interDyMFoamPIMPLE_5x - using PIMPLE algorithm
 
