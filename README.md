@@ -55,9 +55,3 @@ The computational domain consists of solid particles and an unresolved CFD mesh.
 Comparison with experimental data is provided for injection pressure evolution:  
 ![Validation](figures/validation.jpg)  
 *FIG. 3: Experimental vs. computational results for injection pressure.*
-
-## Getting Started
-
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/tdavydze/VOF-DEM-Solvers.git
